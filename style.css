@@ -97,7 +97,6 @@ a{
 .phil {
     display: flex;
     align-items: flex-start;
-    flex-direction: row-reverse;
     .phil-pic{
         padding: 20px;
         margin: 20px;
@@ -183,7 +182,6 @@ a{
 .wmu {
     display: flex;
     align-items: flex-start;
-    flex-direction: row-reverse;
     .wmu-pic{
         padding: 20px;
         margin: 20px;
@@ -250,7 +248,6 @@ a{
 .luc {
     display: flex;
     align-items: flex-start;
-    flex-direction: row-reverse;
     .luc-pic{
         padding: 20px;
         margin: 20px;
@@ -365,7 +362,6 @@ a{
 .owb {
     display: flex;
     align-items: flex-start;
-    flex-direction: row-reverse;
     .owb-pic{
         padding: 20px;
         margin: 20px;
@@ -444,7 +440,6 @@ a{
 .follett {
     display: flex;
     align-items: flex-start;
-    flex-direction: row-reverse;
     .follett-pic{
         padding: 20px;
         margin: 20px;
@@ -497,7 +492,6 @@ a{
 .sync {
     display: flex;
     align-items: flex-start;
-    flex-direction: row-reverse;
     .sync-pic{
         padding: 20px;
         margin: 20px;
@@ -550,7 +544,6 @@ a{
 .rc {
     display: flex;
     align-items: flex-start;
-    flex-direction: row-reverse;
     .rc-pic{
         padding: 20px;
         margin: 20px;

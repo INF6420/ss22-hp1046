@@ -106,7 +106,7 @@ a{
     .phil-text{
         padding: 20px;
         margin: 20px;
-        .sv-title{
+        .phil-title{
             font-size: 24;
             font-weight: bold;
             padding: 10px;
@@ -129,16 +129,16 @@ a{
         width: 512px;
         height: 268.5px;
     }
-    .phil-text{
+    .contact-text{
         padding: 20px;
         margin: 20px;
-        .sv-title{
+        .contact-title{
             font-size: 24;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
-        .phil-description{
+        .contact-description{
             font-size: 16;
             padding: 10px;
             margin: 10px;
@@ -567,3 +567,45 @@ a{
         }
 }
 
+.contact-me-form{
+    font-size: 18;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;   
+}
+
+.form-input{
+    font-size: 16;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    resize: vertical;
+}
+
+.form-input:focus{
+    border: 2px dimgray
+}
+
+.submit-button {
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightsteelblue;
+    color: dimgray;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.submit-button:focus{
+    border: 1px dimgray
+}
+
+.error{
+    border-color: red;
+}
+
+.error-message{
+    color: red;
+    margin: 10px;
+}

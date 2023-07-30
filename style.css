@@ -46,7 +46,7 @@ a{
     padding: 40px;
     margin: 0px;
     .cri{
-        font-size: 32;
+        font-size: 18px;
         font-weight: bold;
         text-align: center;
         padding: 0px 10px 10px 10px;
@@ -56,7 +56,8 @@ a{
         padding: 5px;
         margin: 2.5px; 
         text-align: center;
-        font-size: 18;
+        font-size: 12px;
+        word-break: break-all;
     }
 }
 
@@ -81,13 +82,13 @@ a{
         padding: 20px;
         margin: 20px;
         .sv-title{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .sv-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -107,13 +108,13 @@ a{
         padding: 20px;
         margin: 20px;
         .phil-title{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .phil-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -132,14 +133,15 @@ a{
     .contact-text{
         padding: 20px;
         margin: 20px;
+        width: calc(50% - 40px);
         .contact-title{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .contact-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -152,27 +154,27 @@ a{
     .wayne-pic{
         padding: 20px;
         margin: 20px;
-        width: 330px;
-        height: 186.5px;
+        width: 495px;
+        height: 279.5px;
     }
     .wayne-text{
         padding: 20px;
         margin: 20px;
         .wayne-t1{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .wayne-t2{
-            font-size: 18;
+            font-size: 18px;
             font-weight: bold;
             font-style: italic;
             padding: 10px;
             margin: 10px;   
         }
         .wayne-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -192,20 +194,20 @@ a{
         padding: 20px;
         margin: 20px;
         .wmu-t1{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .wmu-t2{
-            font-size: 18;
+            font-size: 18px;
             font-weight: bold;
             font-style: italic;
             padding: 10px;
             margin: 10px;   
         }
         .wmu-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -225,20 +227,20 @@ a{
         padding: 20px;
         margin: 20px;
         .umd-t1{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .umd-t2{
-            font-size: 18;
+            font-size: 18px;
             font-weight: bold;
             font-style: italic;
             padding: 10px;
             margin: 10px;   
         }
         .umd-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -258,20 +260,20 @@ a{
         padding: 20px;
         margin: 20px;
         .luc-t1{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .luc-t2{
-            font-size: 18;
+            font-size: 18px;
             font-weight: bold;
             font-style: italic;
             padding: 10px;
             margin: 10px;   
         }
         .luc-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -291,20 +293,20 @@ a{
         padding: 20px;
         margin: 20px;
         .cert-t1{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .cert-t2{
-            font-size: 18;
+            font-size: 18px;
             font-weight: bold;
             font-style: italic;
             padding: 10px;
             margin: 10px;   
         }
         .cert-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -333,26 +335,26 @@ a{
         padding: 20px;
         margin: 20px;
         .ahs-t1{
-            font-size: 32;
+            font-size: 32px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .ahs-t2{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;   
         }
         .ahs-t3{
-            font-size: 18;
+            font-size: 18px;
             font-weight: bold;
             font-style: italic;
             padding: 10px;
             margin: 10px;  
         }
         .ahs-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -372,26 +374,26 @@ a{
         padding: 20px;
         margin: 20px;
         .owb-t1{
-            font-size: 32;
+            font-size: 32px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .owb-t2{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;   
         }
         .owb-t3{
-            font-size: 18;
+            font-size: 18px;
             font-weight: bold;
             font-style: italic;
             padding: 10px;
             margin: 10px;  
         }
         .owb-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -411,26 +413,26 @@ a{
         padding: 20px;
         margin: 20px;
         .stp-t1{
-            font-size: 32;
+            font-size: 32px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .stp-t2{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;   
         }
         .stp-t3{
-            font-size: 18;
+            font-size: 18px;
             font-weight: bold;
             font-style: italic;
             padding: 10px;
             margin: 10px;  
         }
         .stp-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -451,13 +453,13 @@ a{
         margin: 20px;
     }
         .follett-title{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .follett-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -469,21 +471,21 @@ a{
     .sora-pic{
          padding: 20px;
          margin: 20px;
-         width: 400px;
-         height: 400px;
+         width: 259.5px;
+         height: 210.5px;
      }
      .sora-text{
             padding: 20px;
             margin: 20px;
     }
          .sora-title{
-                font-size: 24;
+                font-size: 24px;
                 font-weight: bold;
                 padding: 10px;
                 margin: 10px;
             }
             .sora-description{
-                font-size: 16;
+                font-size: 16px;
                 padding: 10px;
                 margin: 10px;
             }
@@ -495,21 +497,21 @@ a{
     .sync-pic{
         padding: 20px;
         margin: 20px;
-        width: 400px;
-        height: 400px;
+        width: 210px;
+        height: 210px;
     }
     .sync-text{
         padding: 20px;
         margin: 20px;
     }
         .sync-title{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .sync-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -521,21 +523,21 @@ a{
     .google-pic{
         padding: 20px;
         margin: 20px;
-        width: 400px;
-        height: 404px;
+        width: 200px;
+        height: 202px;
     }
     .google-text{
         padding: 20px;
         margin: 20px;
     }
         .google-title{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .google-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
@@ -547,35 +549,35 @@ a{
     .rc-pic{
         padding: 20px;
         margin: 20px;
-        width: 600px;
-        height: 315px;
+        width: 500px;
+        height: 262.5px;
     }
     .rc-text{
         padding: 20px;
         margin: 20px;
     }
         .rc-title{
-            font-size: 24;
+            font-size: 24px;
             font-weight: bold;
             padding: 10px;
             margin: 10px;
         }
         .rc-description{
-            font-size: 16;
+            font-size: 16px;
             padding: 10px;
             margin: 10px;
         }
 }
 
 .contact-me-form{
-    font-size: 18;
+    font-size: 18px;
     font-weight: bold;
     padding: 10px;
     margin: 10px;   
 }
 
 .form-input{
-    font-size: 16;
+    font-size: 16px;
     padding: 10px;
     margin: 10px;
     width: 100%;
@@ -595,6 +597,7 @@ a{
     text-transform: uppercase;
     letter-spacing: 2px;
     cursor: pointer;
+    font-size: 18px;
 }
 
 .submit-button:focus{
@@ -608,4 +611,12 @@ a{
 .error-message{
     color: red;
     margin: 10px;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
 }
